@@ -1,0 +1,6 @@
+{
+  "name": "APSRTC Smart TIM",
+  "description": "Next-generation offline Android Ticket Issuing Machine (TIM) prototype for APSRTC conductors featuring Palle Velugu priority, Aadhaar demo verification, thermal printing, and offline syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
